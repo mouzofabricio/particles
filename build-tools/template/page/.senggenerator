@@ -1,0 +1,12 @@
+{
+	"destination": "./src/page",
+	"variables": [
+		{
+			"name": "stateless",
+			"type": "confirm",
+			"message": "Create a stateless component?",
+			"isBoolean": true,
+			"default": true
+		}
+	]
+}
